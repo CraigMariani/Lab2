@@ -1,4 +1,3 @@
-<!-- This XML file does not appear to have any style information associated with it. The document tree is shown below. -->
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
 <title>Michael Kennedy on Technology</title>
@@ -58,7 +57,7 @@ http://blog.michaelckennedy.net/2014/03/05/convert-linq-to-mongodb-queries-to-ja
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/03/github_icon.png" medium="image">
@@ -109,7 +108,7 @@ http://blog.michaelckennedy.net/2014/02/21/ever-wonder-how-big-the-net-and-pytho
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/02/kennedy-relative-size-of-dotnet-andpython-via-meetup-groups.png" medium="image">
@@ -156,7 +155,7 @@ http://blog.michaelckennedy.net/2014/02/15/much-of-my-blogs-sample-apps-are-now-
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amd;d=identicon&amd;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -202,7 +201,7 @@ http://blog.michaelckennedy.net/2014/01/29/python-and-net-in-portland/feed/
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -250,7 +249,7 @@ http://blog.michaelckennedy.net/2014/01/14/special-event-mongodb-in-new-york-fro
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -295,7 +294,7 @@ http://blog.michaelckennedy.net/2014/01/10/part-7-lambda-expressions-in-python-f
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -341,7 +340,7 @@ http://blog.michaelckennedy.net/2014/01/09/part-6-anonymous-types-in-python-for-
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -387,7 +386,7 @@ http://blog.michaelckennedy.net/2014/01/08/part-5-properties-in-python-for-net-d
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -433,7 +432,7 @@ http://blog.michaelckennedy.net/2014/01/07/part-4-foreach-and-ienumerable-in-pyt
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -479,7 +478,7 @@ http://blog.michaelckennedy.net/2014/01/06/part-3-a-single-common-base-type-in-p
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -525,7 +524,7 @@ http://blog.michaelckennedy.net/2014/01/03/part-2-visual-studio-and-ides-in-pyth
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -571,7 +570,7 @@ http://blog.michaelckennedy.net/2014/01/03/part-1-welcome-and-lightning-fast-pyt
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -615,7 +614,7 @@ http://blog.michaelckennedy.net/2014/01/03/series-python-for-net-and-csharp-deve
 <georss:point>45.526697 -122.688050</georss:point>
 <geo:lat>45.526697</geo:lat>
 <geo:long>-122.688050</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/01/dm-logo-airplane.png" medium="image"/>
@@ -668,7 +667,7 @@ http://blog.michaelckennedy.net/2013/12/18/watch-python-for-the-c-and-net-develo
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2013/12/python-player.png" medium="image">
@@ -726,7 +725,7 @@ http://blog.michaelckennedy.net/2013/11/14/watch-building-beautiful-websites-wit
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2013/11/bootstrap-webcast-starter.png" medium="image">
@@ -784,7 +783,7 @@ http://blog.michaelckennedy.net/2013/10/23/mongodb-for-net-developers/feed/
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -823,7 +822,7 @@ http://blog.michaelckennedy.net/2013/10/21/reblogged-new-webcasts-from-developme
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://dmclassroom.files.wordpress.com/2013/10/webcast-pierre-nallet-mongodb-dotnet.png" medium="image"/>
@@ -890,7 +889,7 @@ http://blog.michaelckennedy.net/2013/10/07/come-to-my-sdd-conference-sessions-in
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2013/10/sdd14_speak_wide500.gif" medium="image">
@@ -934,7 +933,7 @@ http://blog.michaelckennedy.net/2013/09/17/new-course-source-control-with-tfs-ve
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -988,7 +987,7 @@ http://blog.michaelckennedy.net/2013/05/06/what-should-i-learn-to-get-started-in
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -1040,7 +1039,7 @@ http://blog.michaelckennedy.net/2013/05/03/why-choose-nosql-and-document-databas
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -1086,7 +1085,7 @@ http://blog.michaelckennedy.net/2013/05/02/installing-mongodb-on-windows-and-os-
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -1129,7 +1128,7 @@ http://blog.michaelckennedy.net/2013/04/22/a-roundup-of-mongodb-management-tools
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2013/04/robomongo.png?w=584" medium="image">
@@ -1198,7 +1197,7 @@ http://blog.michaelckennedy.net/2013/04/08/optimistic-concurrency-in-mongodb-usi
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2014/03/github_icon.png" medium="image">
@@ -1282,7 +1281,7 @@ http://blog.michaelckennedy.net/2013/04/01/take-the-first-hour-of-any-online-dev
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://learninglineapp.files.wordpress.com/2013/03/preview-online-developer-course-for-free.png" medium="image">
@@ -1349,7 +1348,7 @@ http://blog.michaelckennedy.net/2013/03/08/slides-and-demo-from-devweek/feed/
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -1415,7 +1414,7 @@ http://blog.michaelckennedy.net/2013/02/18/announcing-learningline-instructor-le
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="https://s3.amazonaws.com/michael-kennedy/blog/images/learningline-logo-2.png" medium="image"/>
@@ -1465,7 +1464,7 @@ http://blog.michaelckennedy.net/2013/01/15/3-open-source-validation-projects-for
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://s3.amazonaws.com/michael-kennedy/blog/images/LearningLine-featured-content.png" medium="image"/>
@@ -1523,7 +1522,7 @@ http://blog.michaelckennedy.net/2013/01/11/screencast-validating-asp-net-mvc-for
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -1577,7 +1576,7 @@ http://blog.michaelckennedy.net/2012/12/21/tips-for-optional-parameters-to-asp-n
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://s3.amazonaws.com/michael-kennedy/blog/images/LearningLine-featured-content.png" medium="image"/>
@@ -1639,7 +1638,7 @@ http://blog.michaelckennedy.net/2012/12/17/use-nuget-package-restore-to-simplify
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2012/12/enable-global.png" medium="image">
@@ -1700,7 +1699,7 @@ http://blog.michaelckennedy.net/2012/12/04/attend-my-sessions-at-devweek-2013-in
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://www.devweek.com/pix/dwbanner2013b.jpg" medium="image"/>
@@ -1747,7 +1746,7 @@ http://blog.michaelckennedy.net/2012/12/03/introduction-to-asp-net-mvc-routes/fe
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -1805,7 +1804,7 @@ http://blog.michaelckennedy.net/2012/12/01/create-new-asp-net-mvc-views-the-easy
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://s3.amazonaws.com/michael-kennedy/blog/images/LearningLine-featured-content.png" medium="image"/>
@@ -1888,7 +1887,7 @@ http://blog.michaelckennedy.net/2012/11/30/nested-layouts-in-asp-net-mvc-razor-p
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2031,7 +2030,7 @@ http://blog.michaelckennedy.net/2012/11/01/screencast-refactoring-with-partial-v
 <georss:point>45.523452 -122.676207</georss:point>
 <geo:lat>45.523452</geo:lat>
 <geo:long>-122.676207</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://s3.amazonaws.com/michael-kennedy/blog/images/LearningLine-featured-content.png" medium="image"/>
@@ -2078,7 +2077,7 @@ http://blog.michaelckennedy.net/2012/10/31/screencast-strongly-typed-views-in-as
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2130,7 +2129,7 @@ http://blog.michaelckennedy.net/2012/10/30/screencast-viewbag-and-view-data-in-a
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2184,7 +2183,7 @@ http://blog.michaelckennedy.net/2012/10/15/understanding-text-encoding-in-asp-ne
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://s3.amazonaws.com/michael-kennedy/blog/images/LearningLine-featured-content.png" medium="image"/>
@@ -2254,7 +2253,7 @@ http://blog.michaelckennedy.net/2012/10/12/understanding-the-mvc-project-folder-
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2317,7 +2316,7 @@ http://blog.michaelckennedy.net/2012/10/11/preventing-javascript-files-from-load
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://michaelckennedy.files.wordpress.com/2012/10/bad-double.png" medium="image">
@@ -2417,7 +2416,7 @@ http://blog.michaelckennedy.net/2012/09/25/join-me-at-guerrilla-net-in-november/
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 <media:content url="http://cdn1.hubspot.com/hub/157116/guerrilla.jpg" medium="image"/>
@@ -2470,7 +2469,7 @@ I recently blogged about how web apps have hotkeys too. To encourage more develo
 http://blog.michaelckennedy.net/2012/08/30/download-my-web-apps-have-hotkeys-too-sample-app/feed/
 </wfw:commentRss>
 <slash:comments>0</slash:comments>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2522,7 +2521,7 @@ http://blog.michaelckennedy.net/2012/07/23/asynchronous-programming-in-net-4-5-v
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2574,7 +2573,7 @@ http://blog.michaelckennedy.net/2012/05/01/how-are-you-scaling-asp-net/feed/
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2614,7 +2613,7 @@ http://blog.michaelckennedy.net/2012/04/27/michaels-net-suggested-reading-list/f
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2677,7 +2676,7 @@ http://blog.michaelckennedy.net/2012/04/11/downloads-from-building-rich-input-fo
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2731,7 +2730,7 @@ http://blog.michaelckennedy.net/2012/04/06/webcast-building-rich-input-forms-in-
 <georss:point>0.000000 0.000000</georss:point>
 <geo:lat>0.000000</geo:lat>
 <geo:long>0.000000</geo:long>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>
@@ -2777,7 +2776,7 @@ http://blog.michaelckennedy.net/2012/04/04/no-you-dont-need-a-windows-app/#comme
 http://blog.michaelckennedy.net/2012/04/04/no-you-dont-need-a-windows-app/feed/
 </wfw:commentRss>
 <slash:comments>7</slash:comments>
-<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&amp;d=identicon&amp;r=G" medium="image">
+<media:content url="http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?s=96&d=identicon&r=G" medium="image">
 <media:title type="html">mkennedy66996693</media:title>
 </media:content>
 </item>

@@ -243,3 +243,50 @@ DESKTOP-HLLFF07/2020_1_31 15:30:20: Loading XML file: C:\Users\craig\Desktop\Pyt
 DESKTOP-HLLFF07/2020_1_31 15:30:52: Application starting up...
 DESKTOP-HLLFF07/2020_1_31 15:30:52: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\FSP\lab2\data
 DESKTOP-HLLFF07/2020_1_31 15:30:52: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\FSP\lab2\data\michael-kennedy-blog.xml
+DESKTOP-HLLFF07/2020_1_31 16:59:45: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 16:59:45: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 16:59:45: Loading JSON file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\python-course.json
+DESKTOP-HLLFF07/2020_1_31 16:59:45: Found course title to be: Essential Python
+DESKTOP-HLLFF07/2020_1_31 16:59:45: Loading CSV file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\fx-seven-day.csv
+DESKTOP-HLLFF07/2020_1_31 17:0:30: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:0:30: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:0:30: Loading JSON file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\python-course.json
+DESKTOP-HLLFF07/2020_1_31 17:0:30: Found course title to be: Essential Python
+DESKTOP-HLLFF07/2020_1_31 17:0:30: Loading CSV file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\fx-seven-day.csv
+DESKTOP-HLLFF07/2020_1_31 17:1:29: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:1:29: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:1:29: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\michael-kennedy-blog.xml
+DESKTOP-HLLFF07/2020_1_31 17:9:40: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:9:40: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:9:40: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\michael-kennedy-blog.xml
+DESKTOP-HLLFF07/2020_1_31 17:10:30: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:10:30: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:10:30: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\michael-kennedy-blog.xml
+DESKTOP-HLLFF07/2020_1_31 17:11:46: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:11:46: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:11:46: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\michael-kennedy-blog.xml
+DESKTOP-HLLFF07/2020_1_31 17:25:6: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:25:6: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:25:6: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\michael-kennedy-blog.xml
+DESKTOP-HLLFF07/2020_1_31 17:25:23: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:25:23: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:25:23: Loading JSON file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\python-course.json
+DESKTOP-HLLFF07/2020_1_31 17:25:23: Found course title to be: Essential Python
+DESKTOP-HLLFF07/2020_1_31 17:25:23: Loading CSV file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\fx-seven-day.csv
+DESKTOP-HLLFF07/2020_1_31 17:25:37: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:25:37: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:25:37: Loading JSON file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\python-course.json
+DESKTOP-HLLFF07/2020_1_31 17:25:37: Found course title to be: Essential Python
+DESKTOP-HLLFF07/2020_1_31 17:25:38: Loading CSV file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\fx-seven-day.csv
+DESKTOP-HLLFF07/2020_1_31 17:29:58: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:29:58: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:29:58: Loading JSON file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\python-course.json
+DESKTOP-HLLFF07/2020_1_31 17:29:58: Found course title to be: Essential Python
+DESKTOP-HLLFF07/2020_1_31 17:29:58: Loading CSV file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\fx-seven-day.csv
+DESKTOP-HLLFF07/2020_1_31 17:29:58: 1 USD is worth 60.082281952825014 Rupees.
+DESKTOP-HLLFF07/2020_1_31 17:31:47: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:31:47: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:31:47: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\michael-kennedy-blog.xml
+DESKTOP-HLLFF07/2020_1_31 17:35:7: Application starting up...
+DESKTOP-HLLFF07/2020_1_31 17:35:7: Data folder: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data
+DESKTOP-HLLFF07/2020_1_31 17:35:8: Loading XML file: C:\Users\craig\Desktop\PythonFullStack\lab\lab2_project\data\michael-kennedy-blog.xml

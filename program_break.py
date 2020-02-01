@@ -5,6 +5,7 @@ import xml.etree.ElementTree as xmltree
 import timeit
 from logger import Logger
 import numpy as np
+import csv
 # create a function that looks up current directory
 
 class Program:
@@ -22,9 +23,9 @@ class Program:
     def run(self):
         try:
             self.log_startup()
-            # self.load_xml()
-            self.load_json()
-            self.load_csv()
+            self.load_xml()
+            # self.load_json()
+            # self.load_csv()
         except Exception as e:
             print(e.__repr__())
 
@@ -47,7 +48,14 @@ class Program:
 
         print("Titles of recent posts:")
         items = list(dom.findall("channel/item"))
+        print(items)
         self.logger.log("Found {0} titles in RSS feed.".format(len(items)))
+
+        # writing to xml 
+        myfile = open('data/xml_output.xml', 'w')
+        myfile.write(items)
+
+
         for item in items:
             print("{0} [{1}]".format(
                 item.find("title").text,
@@ -67,6 +75,10 @@ class Program:
             engagements = data["Engagements"]
             print("Number of engagements: {0}".format(len(engagements)))
             print("Locations:")
+            ##added code here , reads out json to a text file
+            with open('data/json_output.txt', 'w') as output_file:
+                    # json.dump(engagements, output_file)
+                    json.dump(data, output_file)
             for e in engagements:
                 print("\t" + e["City"] + " on " + e["StartDate"] + " [active? " + str(e["ActiveEngagement"]) + "]")
         print()
@@ -87,6 +99,10 @@ class Program:
 
         rupee_per_usd = usa_per_canadian_dollar / rupees_per_canadian_dollar
 
+        # output to csv file written here 
+        with open('data/csv_output.csv', 'w', newline='') as f:
+            csv_writer = csv.writer(f)
+            csv_writer.writerows(lookup)
         print("1 USD is worth {0} Rupees.".format(rupee_per_usd))
         self.logger.log("1 USD is worth {0} Rupees.".format(rupee_per_usd))
 
@@ -105,7 +121,7 @@ class Program:
                     continue
 
                 parts = line.split(sep=',')
-                nums = np.arrange(2,9)
+                nums = np.arange(2,9)
                 for i in nums:
                     entry = {
                         "name": parts[0].strip(),
