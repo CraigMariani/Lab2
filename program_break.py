@@ -4,7 +4,7 @@ import os
 import xml.etree.ElementTree as xmltree
 import timeit
 from logger import Logger
-
+import numpy as np
 # create a function that looks up current directory
 
 class Program:
@@ -14,7 +14,7 @@ class Program:
         print(dir_path)
 
         # delete parent directories to make it faster
-        data_folder = os.path.join(this_folder, os.pardir, os.pardir, "data")
+        # data_folder = os.path.join(this_folder, os.pardir, os.pardir, "data")
         data_folder = os.path.join(this_folder, "data")
         self.data_folder = os.path.abspath(data_folder)
         self.logger = Logger(os.path.join(self.data_folder, "log.txt"))
@@ -24,7 +24,7 @@ class Program:
             self.log_startup()
             # self.load_xml()
             self.load_json()
-            # self.load_csv()
+            self.load_csv()
         except Exception as e:
             print(e.__repr__())
 
@@ -38,8 +38,13 @@ class Program:
         # filename = os.path.join(self.data_folder, "micheal-ken-notes.xml")
         self.logger.log("Loading XML file: {0}".format(filename))
         dom = xmltree.ElementTree()
+        print(dom)
         dom.parse(filename)
-        
+        root = dom.getroot()
+        print(root)     
+        # root = dom.fromstring(filename)
+        # print(root)
+
         print("Titles of recent posts:")
         items = list(dom.findall("channel/item"))
         self.logger.log("Found {0} titles in RSS feed.".format(len(items)))
@@ -57,11 +62,6 @@ class Program:
 
         with open(filename, "r") as fin:
             data = json.loads(fin.read())
-            # print(timeit.Timer())
-            # print('****************************************')
-            # print(timeit.Timer)
-            # print(t)
-            # print('******************************************')
             print("Course title: {0}".format(data["Name"]))
             self.logger.log("Found course title to be: {0}".format(data["Name"]))
             engagements = data["Engagements"]
@@ -106,7 +106,6 @@ class Program:
 
                 parts = line.split(sep=',')
                 nums = np.arrange(2,9)
-                print(nums)
                 for i in nums:
                     entry = {
                         "name": parts[0].strip(),

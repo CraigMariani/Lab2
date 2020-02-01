@@ -1,9 +1,11 @@
 #!/usr/local/bin/python3
 import json
 import os
-import xml.etree.ElementTree as xmltree
+import xml.etree.ElementTree as ET
 import timeit
 from logger import Logger
+import numpy as np
+import re
 
 # create a function that looks up current directory
 
@@ -14,7 +16,7 @@ class Program:
         print(dir_path)
 
         # delete parent directories to make it faster
-        data_folder = os.path.join(this_folder, os.pardir, os.pardir, "data")
+        # data_folder = os.path.join(this_folder, os.pardir, os.pardir, "data")
         data_folder = os.path.join(this_folder, "data")
         self.data_folder = os.path.abspath(data_folder)
         self.logger = Logger(os.path.join(self.data_folder, "log.txt"))
@@ -22,8 +24,8 @@ class Program:
     def run(self):
         try:
             self.log_startup()
-            # self.load_xml()
-            self.load_json()
+            self.load_xml()
+            # self.load_json()
             # self.load_csv()
         except Exception as e:
             print(e.__repr__())
@@ -36,10 +38,21 @@ class Program:
     def load_xml(self):
         filename = os.path.join(self.data_folder, "michael-kennedy-blog.xml")
         # filename = os.path.join(self.data_folder, "micheal-ken-notes.xml")
+
+        # https://docs.python.org/3/library/re.html
+        modified_string = re.findall("""http://0.gravatar.com/avatar/cb053688f95dbebf60e5c19a3d05110c?
+            s=96&amd;d=identicon&amd;r=G" medium="image""", filename)
+
+        print('MODIFIEDSTRING**************************',modified_string)
         self.logger.log("Loading XML file: {0}".format(filename))
-        dom = xmltree.ElementTree()
+        dom = ET.ElementTree()
+        print(dom)
         dom.parse(filename)
-        
+        root = dom.getroot()
+        print(root)     
+        # root = dom.fromstring(filename)
+        # print(root)
+
         print("Titles of recent posts:")
         items = list(dom.findall("channel/item"))
         self.logger.log("Found {0} titles in RSS feed.".format(len(items)))
@@ -62,9 +75,14 @@ class Program:
             engagements = data["Engagements"]
             print("Number of engagements: {0}".format(len(engagements)))
             print("Locations:")
+            with open('data/json_output.txt', 'w') as output_file:
+                    json.dump(engagements, output_file)
+                    # json.dump(data, output_file)
             for e in engagements:
-                print(type(e))
                 print("\t" + e["City"] + " on " + e["StartDate"] + " [active? " + str(e["ActiveEngagement"]) + "]")
+
+
+
         print()
 
 
@@ -86,6 +104,10 @@ class Program:
         print("1 USD is worth {0} Rupees.".format(rupee_per_usd))
         self.logger.log("1 USD is worth {0} Rupees.".format(rupee_per_usd))
 
+        ##########################
+
+        # df = pd.read_csv('data/fx-seven-day.csv')
+        # print(df)
 
     # try one lining it 
     @staticmethod
@@ -101,9 +123,8 @@ class Program:
                     continue
 
                 parts = line.split(sep=',')
-                
-                
-                for i in range(2,9):
+                nums = np.arange(2,9)
+                for i in nums:
                     entry = {
                         "name": parts[0].strip(),
                         "key": parts[1].strip(),
